@@ -1,1 +1,1 @@
-# Example Repository
+# "Coding marathon: Python edition"
